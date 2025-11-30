@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaixc&label=Profile%20views&color=0e75b6&style=flat" alt="asaixc" /> </p>
 
-- 🌱 I’m currently learning **Computer Science, and different things to have a job like being a data analyst or working at a cybersecurity platforms.**
+- 🌱 I’m currently learning **Computer Science, and different things to have a job like being a data analyst or working at a cybersecurity platform.**
 
 - 👯 I’m looking to collaborate on **Anything**
 
