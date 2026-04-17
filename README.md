@@ -3,7 +3,7 @@
 ________________________________________________________________________________________________________________
 
 # 💫 About Me:
-🌱 I’m currently learning Computer Science, and different things to have a job like being a data analyst or working at a cybersecurity platform.<br><br>👯 I’m looking to collaborate on Anything, and striving to learn more. <br><br>📫 How to reach me? Here! ahmadbanaag8@gmail.com<br><br>⚡ Fun fact! I like video editing and cinematography as a hobby.
+🌱 I’m currently studying COMPUTER SCIENCE, and different things to have a job like being a data analyst or working at a cybersecurity platform.<br><br>👯 I’m looking to collaborate on Anything, and striving to learn more. <br><br>📫 How to reach me? Here! ahmadbanaag8@gmail.com<br><br>⚡ Fun fact! I like video editing and cinematography as a hobby.
 
 
 ## 🌐 Socials:
